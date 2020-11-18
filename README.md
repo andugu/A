@@ -1,3 +1,4 @@
+# Pràctica d'Algorismia
 # Hashing and Bloom filters key lookup comparison #
 Repository for the implementation of different hashing techniques as well as 
 a bloom filters data structure. Each data structure is tested with a series of experiments 
